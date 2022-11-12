@@ -1,7 +1,7 @@
 <h1 align="center">Hi👍🏻, I'm KarlukSec</h1>
 <h3 align="center">I'm Cyber ​​Security Specialist And Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karluksec&label=Profile%20views&color=0e75b6&style=flat" alt="karluksec" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karluks&label=Profile%20views&color=0e75b6&style=flat" alt="karluks" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karluksec" alt="karluksec" /></a> </p>
 
